@@ -1,4 +1,4 @@
-> **Catatan:** Dokumen ini adalah terjemahan non-resmi dari MIT License untuk tujuan informasi. Lisensi yang mengikat secara hukum dapat dilihat pada berkas [`LICENSE.md`](./LICENSE.md).
+> **Catatan:** Dokumen ini adalah terjemahan non-resmi dari MIT License untuk tujuan informasi. Lisensi yang mengikat secara hukum dapat dilihat pada berkas [`LICENSE.md`](./LICENSE).
 
 ---
 
